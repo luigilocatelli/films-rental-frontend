@@ -1,6 +1,8 @@
-# SpringBootJwtFrontend (spring-boot-jwt-frontend)
+# Films Rental Frontend
 
-Simple project to demonstrate jwt setup with spring boot backend
+Simple project to demonstrate JSON Web Token (JWT) setup with CRUD (Create,Read,Update,Delete) Single Page Application.
+
+The Frontend Framework used is Quasar (VueJS).
 
 ## Install the dependencies
 ```bash
